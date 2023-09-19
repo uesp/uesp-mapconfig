@@ -1,0 +1,16 @@
+#
+# Deployment file for the UESP gamemap config and assets.
+#
+
+name = uesp.map-config
+
+ignore = .hg*
+ignore = .git*
+ignore = *.deploy
+ignore = *.sh
+
+dest = content1.uesp.net:/home/uesp/gamemap/www/
+dest = content2.uesp.net:/home/uesp/gamemap/www/
+dest = content3.uesp.net:/home/uesp/gamemap/www/
+destname = [dev]content3.uesp.net:/home/thal-j/gamemap/
+
