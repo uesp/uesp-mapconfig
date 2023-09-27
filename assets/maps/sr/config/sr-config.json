@@ -92,6 +92,7 @@
         // Alchemy / Materials
         "81": "Nirnroot",
         "62": "Ore Vein",
+        "95": "Fishing Spot",
 
         // Miscelaneous
         "55": "All-Maker Stone",
@@ -119,6 +120,13 @@
                 "icon" : 16,
                 "labelPos" : 6,
                 "displayLevel" : "$gamemap.getMaxZoom() - 1;"
+            },
+            "fish" : { // object name
+                "name" : "Fishing Spot (CC)",
+                "icon" : 95,
+                "labelPos" : 6,
+                "displayLevel" : "$gamemap.getMinZoom() + 2;",
+                "wikiPage" : "Fishing (activity)"
             }
         }
     },
