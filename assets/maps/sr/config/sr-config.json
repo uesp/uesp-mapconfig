@@ -125,7 +125,7 @@
                 "name" : "Fishing Spot (CC)",
                 "icon" : 95,
                 "labelPos" : 6,
-                "displayLevel" : "$gamemap.getMaxZoom() - 2;",
+                "displayLevel" : "$gamemap.getMaxZoom() - 1;",
                 "wikiPage" : "Fishing (activity)"
             }
         }
