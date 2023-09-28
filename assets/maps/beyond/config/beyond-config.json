@@ -8,6 +8,9 @@
     "releaseDate" : "01/07/2017", // for sorting games by release date in the map menu
     "isModded" : true,
 
+    // Ad options (if excluded, ads will not be shown)
+    "adScriptName": "uesp_maps", // don't include .js, is implied
+
     // Map options
     "hasCustomCSS" : true,
     "hasCustomFavIcon" : true,

@@ -6,6 +6,9 @@
     "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:ESO_Map_Design",
     "releaseDate" : "04/04/2014", // for sorting games by release date in the map menu
 
+    // Ad options (if excluded, ads will not be shown)
+    "adScriptName": "uesp_maps", // don't include .js, is implied
+
     // Map options
     "hasCustomFavIcon" : true,
 

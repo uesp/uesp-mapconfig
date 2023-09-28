@@ -6,6 +6,9 @@
     "bgColor" : "#5d857b",
     "releaseDate" : "11/11/2011", // for sorting games by release date in the map menu
 
+    // Ad options (if excluded, ads will not be shown)
+    "adScriptName": "uesp_maps", // don't include .js, is implied
+
     // Map options
     "hasCustomCSS" : true,
     "hasCustomFavIcon" : true,

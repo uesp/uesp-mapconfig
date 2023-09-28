@@ -6,6 +6,9 @@
         "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Oblivion_Map_Design",
         "bgColor" : "#615f46",
         "releaseDate" : "24/03/2006", // for sorting games by release date in the map menu
+
+        // Ad options (if excluded, ads will not be shown)
+        "adScriptName": "uesp_maps", // don't include .js, is implied
     
         // Map options
         "hasCustomCSS" : true,
