@@ -110,7 +110,8 @@
         "85": "Cooking Pot",
         "92": "Smelter",
         "93": "Tanning Rack",
-        "94": "Workbench"
+        "94": "Workbench",
+        "96": "Misc"
     },
 
     "editTemplates" : {
