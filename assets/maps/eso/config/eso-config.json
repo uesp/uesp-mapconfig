@@ -2,8 +2,11 @@
     // General map info
     "mapTitle": "ESO Gamemap",
     "wikiNamespace": "Online",
+    "wikiName" : "UESP",
+    "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Maps",
+    "helpURL" : "https://en.uesp.net/wiki/UESPWiki:Map_Help",
+    "wikiHomeURL" : "https://en.uesp.net/wiki/Main_Page",
     "database" : "eso",
-    "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:ESO_Map_Design",
     "releaseDate" : "04/04/2014", // for sorting games by release date in the map menu
 
     // Ad options (if excluded, ads will not be shown)
@@ -11,6 +14,7 @@
 
     // Map options
     "hasCustomFavIcon" : true,
+    "hasCustomCSS" : true,
 
     // Map coordinate system info
     // 0: XY (Default)
@@ -100,7 +104,7 @@
             },
 
             "jewelry station" : {
-                "name": "Jewelry Crafting Station",
+                "name": "Jewelry Station",
                 "icon" : 215,
                 "labelPos" : 0,
                 "wikiPage" : null,
@@ -108,7 +112,7 @@
             },
 
             "jewellery station" : {
-                "name": "Jewelry Crafting Station",
+                "name": "Jewelry Station",
                 "icon" : 215,
                 "labelPos" : 0,
                 "wikiPage" : null,
@@ -116,7 +120,7 @@
             },
 
             "jewel station" : {
-                "name": "Jewelry Crafting Station",
+                "name": "Jewelry Station",
                 "icon" : 215,
                 "wikiPage" : null,
                 "labelPos" : 0,
@@ -124,7 +128,7 @@
             },
 
             "jewelry crafting station" : {
-                "name": "Jewelry Crafting Station",
+                "name": "Jewelry Station",
                 "icon" : 215,
                 "labelPos" : 0,
                 "wikiPage" : null,
@@ -132,7 +136,7 @@
             },
 
             "blacksmith station" : {
-                "name": "Blacksmith Station",
+                "name": "Blacksmithing Station",
                 "icon" : 86,
                 "labelPos" : 0,
                 "wikiPage" : null,

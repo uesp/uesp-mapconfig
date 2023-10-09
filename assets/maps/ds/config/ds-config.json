@@ -2,6 +2,10 @@
     // General map info
     "mapTitle": "Dawnstar Gamemap",
     "wikiNamespace": "Dawnstar",
+    "wikiName" : "UESP",
+    "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Maps",
+    "helpURL" : "https://en.uesp.net/wiki/UESPWiki:Map_Help",
+    "wikiHomeURL" : "https://en.uesp.net/wiki/Main_Page",
     "database" : "ds",
     "releaseDate" : "26/08/2004", // for sorting games by release date in the map menu
 

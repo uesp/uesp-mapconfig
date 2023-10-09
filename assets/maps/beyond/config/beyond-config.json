@@ -2,6 +2,10 @@
     // General map info
     "mapTitle": "Beyond Skyrim Map",
     "wikiNamespace": "Beyond_Skyrim",
+    "wikiName" : "UESP",
+    "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Maps",
+    "helpURL" : "https://en.uesp.net/wiki/UESPWiki:Map_Help",
+    "wikiHomeURL" : "https://en.uesp.net/wiki/Main_Page",
     "database" : "beyond",
     "tileURLName" : "bsmap",
     "bgColor" : "#284358",

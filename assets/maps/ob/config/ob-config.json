@@ -3,23 +3,26 @@
         "mapTitle": "Oblivion Gamemap",
         "wikiNamespace": "Oblivion",
         "database" : "ob",
-        "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Oblivion_Map_Design",
+        "wikiName" : "UESP",
+        "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Maps",
+        "helpURL" : "https://en.uesp.net/wiki/UESPWiki:Map_Help",
+        "wikiHomeURL" : "https://en.uesp.net/wiki/Main_Page",
         "bgColor" : "#615f46",
         "releaseDate" : "24/03/2006", // for sorting games by release date in the map menu
 
         // Ad options (if excluded, ads will not be shown)
         "adScriptName": "uesp_maps", // don't include .js, is implied
-    
+
         // Map options
         "hasCustomCSS" : true,
         "hasCustomFavIcon" : true,
-    
+
         // Map coordinate system info
         // 0: XY (Default)
         // 1: Normalised
         // 2: Worldspace
         "coordType" : 2,
-    
+
         // Map icon info
         "iconSize" : 16,
         "labelOffset" : 8,
@@ -55,5 +58,4 @@
             "100": "Other"
         }
     }
-    
-    
+

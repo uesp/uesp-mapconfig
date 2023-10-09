@@ -9,3 +9,14 @@
     box-shadow: 0px 0px 4px 4px var(--shadow);
     border-radius: 0px !important;
 }
+
+/* wiki logo font */
+@font-face {
+	font-family: 'wikiType';
+	src: url('../fonts/Goudy_Medieval_Alternate.ttf') format('embedded-opentype'), /* Internet Explorer */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('woff2'),             /* Super Modern Browsers */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('woff'),              /* Pretty Modern Browsers */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('truetype'),          /* Safari, Android, iOS */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('svg');               /* Legacy iOS */
+	font-display: swap;
+}

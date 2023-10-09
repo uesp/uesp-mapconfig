@@ -6,3 +6,14 @@
 .leaflet-marker-icon {
     filter: drop-shadow(0 0 0.5rem black);
 }
+
+/* wiki logo font */
+@font-face {
+	font-family: 'wikiType';
+	src: url('../fonts/Goudy_Medieval_Alternate.ttf') format('embedded-opentype'), /* Internet Explorer */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('woff2'),             /* Super Modern Browsers */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('woff'),              /* Pretty Modern Browsers */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('truetype'),          /* Safari, Android, iOS */
+		 url('../fonts/Goudy_Medieval_Alternate.ttf') format('svg');               /* Legacy iOS */
+	font-display: swap;
+}

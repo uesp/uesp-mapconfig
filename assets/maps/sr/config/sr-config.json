@@ -2,6 +2,10 @@
     // General map info
     "mapTitle": "Skyrim Gamemap",
     "wikiNamespace": "Skyrim",
+    "wikiName" : "UESP",
+    "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Maps",
+    "helpURL" : "https://en.uesp.net/wiki/UESPWiki:Map_Help",
+    "wikiHomeURL" : "https://en.uesp.net/wiki/Main_Page",
     "database" : "sr",
     "bgColor" : "#5d857b",
     "releaseDate" : "11/11/2011", // for sorting games by release date in the map menu

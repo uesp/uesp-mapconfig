@@ -2,8 +2,11 @@
     // General map info
     "mapTitle": "Morrowind Gamemap",
     "wikiNamespace": "Morrowind",
+    "wikiName" : "UESP",
+    "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Maps",
+    "helpURL" : "https://en.uesp.net/wiki/UESPWiki:Map_Help",
+    "wikiHomeURL" : "https://en.uesp.net/wiki/Main_Page",
     "database" : "mw",
-    "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Morrowind_Map_Design",
     "bgColor" : "#7076AA",
     "releaseDate" : "01/05/2003", // for sorting games by release date in the map menu
 
