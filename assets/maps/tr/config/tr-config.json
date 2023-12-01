@@ -101,7 +101,16 @@
         "110": "Plant",
         "111": "Propylon",
         "112": "Ruins",
-        "113": "Other"
+        "113": "Other",
+        "114": "Dreugh Citadel",
+        "115": "Bank",
+        "116": "Direnni Ruins",
+        "117": "Barrow",
+        "118": "East Empire Company",
+        "119": "Goblins",
+        "120": "House Indoril",
+        "121": "Misc (Imperial)",
+        "122": "Reachmen Settlement",
     }
 }
 
