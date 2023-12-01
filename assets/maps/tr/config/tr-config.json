@@ -49,7 +49,7 @@
         "10": "Daedric Shrine",
         "11": "Dwemer Ruin",
         "12": "Ancestral Tomb",
-        "13": "Nordic Barrow",
+        "13": "Barrow",
         "14": "Velothi Tower",
         "15": "Grotto",
         "16": "Landmark",
@@ -105,11 +105,10 @@
         "114": "Dreugh Citadel",
         "115": "Bank",
         "116": "Direnni Ruins",
-        "117": "Barrow",
         "118": "East Empire Company",
         "119": "Goblins",
         "120": "House Indoril",
-        "121": "Misc (Imperial)",
+        "121": "Imperial",
         "122": "Reachmen Settlement"
     }
 }
