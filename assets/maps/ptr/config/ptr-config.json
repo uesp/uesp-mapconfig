@@ -1,12 +1,12 @@
 {
     // General map info
-    "mapTitle": "Tamriel Rebuilt Map",
-    "wikiNamespace": "Tamriel Rebuilt",
+    "mapTitle": "Project Tamriel Map",
+    "wikiNamespace": "Project Tamriel",
     "wikiName" : "UESP",
     "feedbackURL" : "https://en.uesp.net/wiki/UESPWiki_talk:Maps",
     "helpURL" : "https://en.uesp.net/wiki/UESPWiki:Map_Help",
     "wikiHomeURL" : "https://en.uesp.net/wiki/Main_Page",
-    "database" : "tr",
+    "database" : "ptr",
     "releaseDate" : "23/09/2006", // for sorting games by release date in the map menu
     "isModded" : true,
 
