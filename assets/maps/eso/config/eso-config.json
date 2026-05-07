@@ -623,13 +623,21 @@
         "241": "Armory Station",
         "242": "Arcane Knot",
         "243": "Jump Pad",
-        "244": "Adventure Zone Skirmish",
+        "244": "Adventure Zone Skirmish Site",
         "245": "Ardent Boss",
         "246": "Brazen Boss",
         "247": "Event Zone Entrance",
         "248": "Subclassing",
         "249": "Adventure Zone Timed Group",
         "250": "Werewolf Shrine",
-        "251": "Vampire Shrine"
+        "252": "Calamitous Boss",
+        "253": "Glittering Goad Vendor",
+        "254": "Glittering Goad",
+        "255": "Ruckus Vendor",
+        "256": "Thousand Eyes",
+        "257": "Thousand Eyes Vendor",
+        "258": "Ruckus",
+        "259": "Jump Pad"
+        
     }
 }
